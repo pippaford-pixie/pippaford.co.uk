@@ -173,7 +173,7 @@ export const approach = {
 			],
 			title: 'Somatic approaches',
 			summary:
-				'Paying attention to the body and the nervous system, not just to thoughts and story.',
+				'Paying attention to the body and the nervous system, not just to thoughts.',
 			body: [
 				'A great deal of what we carry is not stored as memory in the way we usually picture memory. It is in the body. The tension that never quite lets go, the startle response that fires at nothing, the tiredness that sleep does not touch, the sense of being braced against something that stopped happening years ago.',
 				'Somatic work goes at that directly. It means slowing right down and noticing what is actually happening — tightness, temperature, restlessness, the urge to move or to get out of the room — and treating all of that as information rather than background noise. Much of the time we are working with your nervous system: how quickly it tips into alarm, and what genuinely helps it settle again.',
