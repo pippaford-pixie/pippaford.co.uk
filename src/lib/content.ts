@@ -173,7 +173,7 @@ export const approach = {
 			],
 			title: 'Somatic approaches',
 			summary:
-				'Using your body as a resource, paying attention to physical sensations and the nervous system rather than relying on talking alone. In practice, that might look like noticing where you hold tension, using gentle grounding or breath to settle, and learning to listen to your body’s signals so you feel steady, safe and supported.',
+				'Using your body as a resource, paying attention to physical sensations and the nervous system rather than relying on talking alone.',
 			body: [
 				'A great deal of what we carry is not stored as memory in the way we usually picture memory. It is in the body. The tension that never quite lets go, the startle response that fires at nothing, the tiredness that sleep does not touch, the sense of being braced against something that stopped happening years ago.',
 				'Somatic work goes at that directly. It means slowing right down and noticing what is actually happening — tightness, temperature, restlessness, the urge to move or to get out of the room — and treating all of that as information rather than background noise. Much of the time we are working with your nervous system: how quickly it tips into alarm, and what genuinely helps it settle again.',
