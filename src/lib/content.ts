@@ -173,10 +173,12 @@ export const approach = {
 			],
 			title: 'Somatic approaches',
 			summary:
-				'Using the body as a resource and paying attention to the nervous system, not just to thoughts.',
+				'Using your body as a resource, paying attention to physical sensations and the nervous system rather than relying on talking alone. In practice, that might look like noticing where you hold tension, using gentle grounding or breath to settle, and learning to listen to your body’s signals so you feel steady, safe and supported.',
 			body: [
-				'Somatic therapy uses your body as a resource, paying attention to physical sensations and the nervous system rather than relying on talking alone.',
-				'In practice, that might look like pausing to notice where you hold tension, using gentle grounding or breath to settle when you feel overwhelmed, and learning to listen to your body’s signals so you feel steady, safe and supported.'
+				'A great deal of what we carry is not stored as memory in the way we usually picture memory. It is in the body. The tension that never quite lets go, the startle response that fires at nothing, the tiredness that sleep does not touch, the sense of being braced against something that stopped happening years ago.',
+				'Somatic work goes at that directly. It means slowing right down and noticing what is actually happening — tightness, temperature, restlessness, the urge to move or to get out of the room — and treating all of that as information rather than background noise. Much of the time we are working with your nervous system: how quickly it tips into alarm, and what genuinely helps it settle again.',
+				'This is where my yoga and mindfulness therapy training comes in, though I should say plainly that it is not a yoga class. It is closer to getting to know the particular signals your own body sends, and building a bit of capacity to shift them, so that a strong feeling becomes something you can stay present to instead of something that takes you over.',
+				'Pace really matters here. Going too fast into bodily experience can be destabilising in itself, especially where there is trauma in the picture. So we work at a speed that keeps you inside what you can actually tolerate. And you set that pace, not me.'
 			]
 		},
 		{
